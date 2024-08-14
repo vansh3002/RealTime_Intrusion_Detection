@@ -22,7 +22,7 @@ import cv2
 
 # Load your face database
 database = {
-    "Person1": "C:\Extract face\Valid Faces\Screenshot (493).png",
+    "Person1": "Load person1 image from the database",
     # Add more entries as needed
 }
 
